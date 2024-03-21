@@ -4,14 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79eea41a-d13b-4575-835a-1804b6b27349" name="Changes" comment="" />
+    <list default="true" id="79eea41a-d13b-4575-835a-1804b6b27349" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rpg_lab/Target.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rpg_lab/Target.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rpg_lab/Weapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rpg_lab/Weapon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/rpg_lab/AxeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/rpg_lab/AxeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/rpg_lab/DummyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/rpg_lab/DummyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/rpg_lab/HeroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/rpg_lab/HeroTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -29,9 +48,112 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="rpg_lab" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.HeroTest">
+    <configuration name="AxeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rpg_lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rpg_lab" />
+      <option name="MAIN_CLASS_NAME" value="rpg_lab.AxeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DummyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rpg_lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rpg_lab" />
+      <option name="MAIN_CLASS_NAME" value="rpg_lab.DummyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DummyTest.testAliveDummyCantGiveXp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rpg_lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rpg_lab" />
+      <option name="MAIN_CLASS_NAME" value="rpg_lab.DummyTest" />
+      <option name="METHOD_NAME" value="testAliveDummyCantGiveXp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rpg_lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rpg_lab" />
+      <option name="MAIN_CLASS_NAME" value="rpg_lab.HeroTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeroTest.testHeroGainsXpWhenTargetDies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rpg_lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rpg_lab" />
+      <option name="MAIN_CLASS_NAME" value="rpg_lab.HeroTest" />
+      <option name="METHOD_NAME" value="testHeroGainsXpWhenTargetDies" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HeroTest" />
+        <item itemvalue="JUnit.HeroTest.testHeroGainsXpWhenTargetDies" />
+        <item itemvalue="JUnit.AxeTest" />
+        <item itemvalue="JUnit.DummyTest" />
+        <item itemvalue="JUnit.DummyTest.testAliveDummyCantGiveXp" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,5 +164,16 @@
       <updated>1711037191394</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
